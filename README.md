@@ -16,7 +16,8 @@ To use this project, either open the project in a browser and use the inspect ri
 
 Original code for Horiseon website provided by UPENN LPS Coding Bootcamp through [Gitlab](https://upenn.bootcampcontent.com/upenn-bootcamp)
 
-
+Link to this REPO on [Github](https://github.com/RWWoods/horiseon-refactor)
+Link to the deployed [site](https://rwwoods.github.io/horiseon-refactor/)
 ## License
 
 MIT License
