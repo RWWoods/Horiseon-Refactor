@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* this element sets the background color for the website */
 body {
     background-color: #d9dcd6;
 }
-
+/* this header class provides the background color, padding,
+font color, and font type for the header at the top of the page */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,8 @@ body {
     color: #ffffff;
 }
 
+/* header h1 and h1 seo provide the alignment, font size
+and color disparity in the word Horiseon at the top of the page */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +28,8 @@ body {
     color: #d9dcd6;
 }
 
+/* this class selector defines characteristics for the navigation
+links at the top of the page */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +47,18 @@ body {
     margin-left: 25px;
 }
 
+/* this element selector sets the color of the links in the nav bar */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* this element selector sets font size for each of our paragraph sections */
 p {
     font-size: 16px;
 }
 
+/* this class selector provides the website main splash picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +68,8 @@ p {
     background-position: center;
 }
 
+/* the following float class elements determine 
+which side of the paragraph sections has an image */
 .float-left {
     float: left;
     margin-right: 25px;
